@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uitouren.github.io/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/app/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/assets/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/css/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/data/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/includes/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/item/sitemap.uitouren.gz
+Sitemap: https://uitouren.github.io/src/sitemap.uitouren.gz
